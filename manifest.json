@@ -18,5 +18,5 @@
             "id": "moviecatalog"
         }
     ],
-    "idPrefixes": ["tt"]
+    "idPrefixes": ["tt","yt_id"]
 }
