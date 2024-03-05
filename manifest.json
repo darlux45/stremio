@@ -6,6 +6,11 @@
     "logo": "https://png.pngtree.com/png-clipart/20230915/original/pngtree-fox-logo-vector-png-image_12168609.png",
     "resources": [
         "catalog",
+        {
+        "name": "meta",
+        "types": ["movie","series"],
+        "idPrefixes": ["hiwrld_"]
+    },
         "stream"
     ],
     "types": [
