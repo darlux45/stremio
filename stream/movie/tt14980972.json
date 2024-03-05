@@ -3,14 +3,7 @@
       {
       "name": "Hart Hit",
      "url": "http://distribution.bbb3d.renderfarming.net/video/mp4/bbb_sunflower_1080p_30fps_normal.mp4"
-     },
-        { "title": "Web, 3 MBps, HD", "url": "http://distribution.bbb3d.renderfarming.net/video/mp4/bbb_sunflower_1080p_30fps_normal.mp4" },
-        { "title": "YouTube", "ytId": "5EQw5NYlbyE" },
-        {
-        "id": "fromMagnet"
-         "name": "Hart Hit",
-        "url": "magnet:?xt=urn:btih:7f8a35264e3dce2458b374604b98fe374a09cbd3&dn=Hard.Hit.2021.1080p-dual-lat&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce"
-        }
+     }
        ]
 }     
      
