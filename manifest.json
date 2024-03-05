@@ -5,7 +5,7 @@
     "name": "FoxPlay",
     "logo": "https://png.pngtree.com/png-clipart/20230915/original/pngtree-fox-logo-vector-png-image_12168609.png",
     "resources": [
-        "catalog",
+        "catalog"
         {
         "name": "meta",
         "types": ["movie","series"],
