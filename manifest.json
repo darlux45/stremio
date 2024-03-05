@@ -3,7 +3,7 @@
     "version": "0.0.1",
     "description": "Example Stremio Addon",
     "name": "FoxPlay",
-    "logo": "https://png.pngtree.com/png-clipart/20230915/original/pngtree-fox-logo-vector-png-image_12168609.png"
+    "logo": "https://png.pngtree.com/png-clipart/20230915/original/pngtree-fox-logo-vector-png-image_12168609.png",
     "resources": [
         "catalog",
         "stream"
