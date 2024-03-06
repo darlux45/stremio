@@ -9,5 +9,7 @@
     "background": "https://image.tmdb.org/t/p/original/8tP7CcCaZma9Ucc5EBKEn8TmYit.jpg",
     "isFree": true,
     "type": "movie"
-  }
+  },
+
+  { "id": "tt0032138", "name": "The Wizard of Oz", "genres": ["Adventure", "Family", "Fantasy", "Musical"] }
 }
