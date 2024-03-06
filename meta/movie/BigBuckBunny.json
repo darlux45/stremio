@@ -11,5 +11,6 @@
     "type": "movie"
   },
 
-  { "id": "tt0032138", "name": "The Wizard of Oz", "genres": ["Adventure", "Family", "Fantasy", "Musical"] }
+  { "id": "The Wizard of Oz", "name": "The Wizard of Oz", "genres": ["Adventure", "Family", "Fantasy", "Musical"],
+}
 }
