@@ -8,9 +8,10 @@
         "catalog",
         {
             "name": "meta",
-            "types": [ "movie","series" ],
+            "types": [ "movie", "series" ],
             "idPrefixes": [ "hiwld_" ]
-            }
+            },
+        "stream"
     ],
     "types": [
         "movie",
@@ -18,8 +19,10 @@
     ],
     "catalogs": [
         {
-            "type": "movie",
-            "id": "moviecatalog"
-        }
+            "id": "movieCatalog", "type": "movie"
+        },
+        {
+         "id": "seriesCatalog", "type": "series"
+       } 
     ]  
 }
