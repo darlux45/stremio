@@ -9,7 +9,7 @@
         {
             "name": "meta",
             "types": [ "movie"´,"series" ],
-            "idPrefixes": [ "hiwld_" ]
+            "idPrefixes": [ "hiwld_" ],
         "stream"
     ],
     "types": [
