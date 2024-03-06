@@ -8,7 +8,7 @@
         "catalog",
         {
             "name": "meta",
-            "types": [ "movie"´,"series" ],
+            "types": [ "movie","series" ],
             "idPrefixes": [ "hiwld_" ]
             }
         "stream"
