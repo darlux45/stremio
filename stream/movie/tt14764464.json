@@ -1,1 +1,7 @@
-
+{
+   "streams": [
+        { "name": "1080p", "title": "Código 8 (Parte 2)", "infoHash": "2afa8c67b145e93aba2aa86ef5cd4381cdf263d3" },
+      { "name": "Código 8 (Parte 2)", "title": "External URL", "externalUrl": "https://www.netflix.com/watch/26004747" },
+      { "name": "1080p", "title": "Código 8 (Parte 2)", "infoHash": "f9dcc199ae0b626e526c5c92834a670ae2c53a15" }
+   ]
+}
