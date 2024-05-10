@@ -1,9 +1,9 @@
 {
   "metas": [
     { "id": "tt29195117", "name": "Justice League: Crisis on Infinite Earths - Part One", "poster": "https://media.themoviedb.org/t/p/w500/epHfwWjCPb0ypW90ycSO6Hg6IkI.png", "genres": ["Adventure", "Family", "Fantasy", "Musical"] },
-    { "id": "tt0017136", "name": "Metropolis", "genres": ["Drama", "Sci-Fi"] },
+    { "id": "tt21692408", "name": "Kung Fu Panda 4", "genres": ["Animación", "Cimedia"], "poster": "https://image.tmdb.org/t/p/original/3ffPx9jqg0yj9y1KWeagT7D20CB.jpg" },
     { "id": "tt0051744", "name": "House on Haunted Hill", "genres": ["Horror", "Mystery"] },
-    { "id": "tt14764464", "name": "Código 8 (Parte 2)", "genres": [], "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uVEFQvFMMsg4e6yb03xOfVsDz4o.jpg" },
+    { "id": "tt14764464", "name": "Código 8 (Parte 2)", "genres": [], "poster": "https://image.tmdb.org/t/p/original/i4t9ka11OeG47Ihu8AhKw1iVzar.jpg" },
     { "id": "tt0031051", "name": "The Arizona Kid", "genres": ["Music", "War", "Western"] },
     { "id": "tt0137523", "name": "Fight Club", "genres": ["Drama"] },
     { "id": "tt14980972", "name": "Hart Hit" },
