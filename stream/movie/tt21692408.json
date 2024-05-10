@@ -1,1 +1,7 @@
-24E959424BE8E83832E4D96BD589BD242EC9D54B
+{
+   "streams": [
+        { "name": "1080p", "title": "Kung Fu Panda 4", "infoHash": "24E959424BE8E83832E4D96BD589BD242EC9D54B" },
+      { "name": "Liga de la Justicia: Crisis en Tierras Infinitas, Parte 1", "title": "External URL", "externalUrl": "https://www.netflix.com/watch/26004747" },
+      { "name": "4K HDR", "title": "Kung Fu Panda 4", "infoHash": "05D4051BD7FD1F41DAC9CB3144109F27B31FDAF9" }
+   ]
+}
