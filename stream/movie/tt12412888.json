@@ -2,9 +2,7 @@
 "streams": [
 
 { "title": "Torrent", "infoHash": "a317768173ace823cbe2d3e5d478a69187fe5c56", 
-"poster": "https://image.tmdb.org/t/p/original/n4KJtTb1l4cDgnPTpMn0jEswrkU.jpg"
-},
-{ "title": "url": "https://dl1.vadapav.mov/f/80bf616d-a072-4af8-b768-2aeda660aab5/"
-}
+"poster": "https://image.tmdb.org/t/p/original/n4KJtTb1l4cDgnPTpMn0jEswrkU.jpg" },
+{ "title": "url": "https://dl1.vadapav.mov/f/80bf616d-a072-4af8-b768-2aeda660aab5/" }
 ]
 }
