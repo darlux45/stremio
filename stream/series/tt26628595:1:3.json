@@ -1,1 +1,9 @@
-vdcvd
+{
+ "streams":[
+
+   { "title": "1080 ligero", "name": "Cásate con mi esposo", "infoHash": "4f9bb0b1ccd688ba823d1ef07a0c792b01bfaf9b" },
+   { "name": "1080p web-dl", "title": "Cásate con mi esposo", "infoHash": "9D495DCD64EE92A7BD9F1FB1D70E18517F3CA78E" }
+   
+ ]
+  
+}
